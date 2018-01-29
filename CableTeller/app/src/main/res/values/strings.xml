@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cable Teller</string>
+    <string name="low_band">50 MHz</string>
+    <string name="hi_band">700 MHz</string>
+    <string name="start_point">Line In</string>
+    <string name="end_point">Line Out</string>
+    <string name="button">Submit</string>
+    <string name="dbmv">dBmV</string>
+</resources>
